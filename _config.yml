@@ -1,0 +1,14 @@
+layout_spectrum: 0.8372896863147616
+typography_spectrum: 0.4291926003061235
+color:
+  brandStrength: 0.41714751604013145
+  lightness: 0.2383783890400082
+  saturation: 0.9764038810972124
+  rhythmicContrast: 0.4611704701092094
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: SeeWhatMatters
